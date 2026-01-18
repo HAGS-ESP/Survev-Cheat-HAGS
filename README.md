@@ -89,3 +89,11 @@ A feature-rich userscript for enhanced gameplay experience, built with JavaScrip
 7. **Press `Ctrl + S`** to save the script
 
 8. **Done!** The script will now run automatically when you visit the game
+
+### Patch note
+- 1/16/2026
+  ESP Line
+  Players Names
+- 1/18/2026 
+  Aim Bot
+  Melee Lock
