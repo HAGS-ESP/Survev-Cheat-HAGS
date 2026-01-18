@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Tampermonkey-green)
 
-The most undetectable userscript for survev.io, built with JavaScript for use with Tampermonkey.
+A feature-rich userscript for enhanced gameplay experience, built with JavaScript for use with Tampermonkey.
 
 ## 📸 Screenshots
 
@@ -55,10 +55,26 @@ The most undetectable userscript for survev.io, built with JavaScript for use wi
 
 ## 🛠️ Installation
 
+### Option 1: Install from Greasy Fork (Recommended)
+
 1. **Install Tampermonkey** for your browser:
    - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
    - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+
+2. **Go to the Greasy Fork page:**
+   
+   [![Install from Greasy Fork](https://img.shields.io/badge/Install-Greasy%20Fork-red?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/en/scripts/563100-hags-survev-esp-aimbot)
+
+3. **Click "Install this script"**
+
+4. **Done!** The script will auto-update when new versions are released
+
+---
+
+### Option 2: Manual Installation
+
+1. **Install Tampermonkey** for your browser (links above)
 
 2. **Click the Tampermonkey icon** in your browser toolbar
 
