@@ -10,8 +10,8 @@ The most undetectable userscript for survev.io, built with JavaScript for use wi
 
 | | | |
 |:---:|:---:|:---:|
-| ![Screenshot 1](images/image1.png) | ![Screenshot 2](images/image2.png) | ![Screenshot 3](images/image3.png) |
-| ![Screenshot 4](images/image4.png) | ![Screenshot 5](images/image5.png) | ![Screenshot 6](images/image6.png) |
+| ![Screenshot 1](image1.png) | ![Screenshot 2](image2.png) | ![Screenshot 3](image3.png) |
+| ![Screenshot 4](image4.png) | ![Screenshot 5](image5.png) | ![Screenshot 6](image6.png) |
 
 ## ✨ Features
 
