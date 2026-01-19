@@ -64,7 +64,7 @@ A feature-rich userscript for enhanced gameplay experience, built with JavaScrip
 
 2. **Go to the Greasy Fork page:**
    
-   [![Install from Greasy Fork](https://img.shields.io/badge/Install-Greasy%20Fork-red?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/en/scripts/563100-hags-survev-esp-aimbot)
+   [![Install from Greasy Fork](https://img.shields.io/badge/Install-Greasy%20Fork-red?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/en/scripts/563193-hags-survev-esp-aimbot)
 
 3. **Click "Install this script"**
 
